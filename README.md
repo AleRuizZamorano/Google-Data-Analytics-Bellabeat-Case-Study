@@ -14,4 +14,4 @@ Dentro de las herramientas usadas:
 * Gemini
 * Claude
 
-[![Press]()](https://docs.google.com/presentation/d/1TsriNTo2zBG60EzsG91OJIfSzvB644v8jcH9QZYA1cY/edit?usp=sharing)
+[![Press](Press.jpeg)](https://docs.google.com/presentation/d/1TsriNTo2zBG60EzsG91OJIfSzvB644v8jcH9QZYA1cY/edit?usp=sharing)
